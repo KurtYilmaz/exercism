@@ -42,28 +42,22 @@ public class PigLatinTranslator {
                 if(!mutableMap.containsKey(iteratorString)) {
                     mutableMap.put(iteratorString, 'c');
                 }
-            }
-
-            // two-letter sounds (diagraphs only, no blends)
-            // Diagraphs: st, sh, ch, th, wh  
-            mutableMap.put("st", 'c');
-            mutableMap.put("St", 'c');
-            mutableMap.put("sh", 'c');
-            mutableMap.put("Sh", 'c');
-            mutableMap.put("ch", 'c');
-            mutableMap.put("Ch", 'c');
-            mutableMap.put("th", 'c');
-            mutableMap.put("Th", 'c');
-            mutableMap.put("wh", 'c');
-            mutableMap.put("Wh", 'c');        
+            }       
 
         sounds = Collections.unmodifiableMap(mutableMap);
     }
 
 
+    // Step 1: parse input string, separate into words by spaces
+    // Step 1a: for each word, repeat steps 2x-3.
+    // Step 2: check first letter.
+    // Step 2a: if vowel, skip to step 3
+    // Step 2b: if consonant, check index of "qu" or "y".
+    // Step 2c: if no qu/y, check index of first vowel.
+    // Step 2d: separate into two strings by the index found
+    // Step 2e: add first part to end of second string
+    // Step 3: add -ay to the end
     public String translate(String input) {
         return "";
     }
-
-    private boolean 
 }
