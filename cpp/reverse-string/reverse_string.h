@@ -1,13 +1,12 @@
 #if !defined(REVERSE_STRING_H)
 #define REVERSE_STRING_H
 
+#include <algorithm>
 #include <string>
-
-using namespace std;
 
 namespace reverse_string {
 
-string reverse_string(string input);
+std::string reverse_string(std::string input);
 
 }  // namespace reverse_string
 
