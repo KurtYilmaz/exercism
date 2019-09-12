@@ -1,16 +1,10 @@
 #!/bin/bash
 
-  main () {
-    # If # arguments is less than 1, name="you"
-    if [ $# -lt 1 ]
-    then
-        name="you"
-    else
-        name=$1
-    fi
-    
-    echo "One for ${name}, one for me."
-  }
+main () {
+  name=$1
+  keep="one"
+  echo "One for ${name:="you"}, ${keep} for me."
+}
 
-  # call main with all of the positional arguments
-  main "$@"
+# call main with all of the positional arguments
+main "$@"
