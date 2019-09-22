@@ -1,9 +1,8 @@
 #!/bin/bash
 
 main () {
-  name=$1
-  keep="one"
-  echo "One for ${name:="you"}, ${keep} for me."
+  name="$1"
+  echo "One for ${name:="you"}, one for me."
 }
 
 # call main with all of the positional arguments

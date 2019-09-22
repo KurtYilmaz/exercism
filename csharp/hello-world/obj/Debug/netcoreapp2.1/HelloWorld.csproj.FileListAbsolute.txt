@@ -1,0 +1,14 @@
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/mnt/c/Users/Kurt/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.1/HelloWorld.pdb

@@ -1,0 +1,14 @@
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.csprojAssemblyReference.cache
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.AssemblyInfoInputs.cache
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.AssemblyInfo.cs
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.deps.json
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.runtimeconfig.json
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.runtimeconfig.dev.json
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.dll
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.pdb
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.dll
+/mnt/c/Users/Kurt/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.pdb
