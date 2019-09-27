@@ -3,5 +3,6 @@
 
 #include <math.h>
 
+int getNumberOfDigits(int num);
 int isArmstrongNumber(int num);
 #endif
